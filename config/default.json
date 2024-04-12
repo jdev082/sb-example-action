@@ -1,0 +1,8 @@
+{
+    "makers": ["html"],
+    "input": "Scratch Project.sb3",
+    "turbo": "true",
+    "html": {
+        "out": "out.html"
+    }
+}
